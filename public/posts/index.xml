@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kaishu Shito</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Kaishu Shito</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2024, Kaishu Shito.</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 16:45:11 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 05 Jan 2025 16:45:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello, Hugo&lt;/h1&gt;&#xA;&lt;p&gt;この記事はMarkdownで書かれています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

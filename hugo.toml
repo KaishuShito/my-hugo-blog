@@ -1,0 +1,28 @@
+baseURL = 'https://blogkai.org/'
+languageCode = 'ja'
+title = 'Kaishu Shito Blog'
+
+# hugo-bearblogテーマを使用
+theme = 'hugo-bearblog'
+
+# 著者情報
+author = 'Kaishu Shito'
+copyright = 'Copyright © 2024, Kaishu Shito.'
+
+# ブログの設定
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[params]
+  # Kaishu Shito
+  description = "new post every sometimes"
+  
+  # ブログのタイトル（オプション）
+  title = "Kaishu Shito"
+  
+  # 日付のフォーマット
+  dateFormat = "2006-01-02"
+
+  # ダークモードの設定（true/false）
+  hideMadeWithLine = true
