@@ -1,0 +1,23 @@
+# ブログ更新用コマンド集
+
+## 1. 記事作成
+# 新しい記事を作成
+hugo new blog/post-name.md
+
+## 2. プレビュー
+# ローカルサーバーでプレビュー（http://localhost:1313）
+hugo server -D
+
+## 3. Git操作
+# 変更状態の確認
+git status
+
+# 変更をGitHubに反映
+git add .
+git commit -m "Update message"
+git push
+
+## 注意点
+- コミットメッセージは具体的に書く
+- プッシュ後、反映まで1-2分かかる
+- blogkai.org で確認 
