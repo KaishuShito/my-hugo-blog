@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20s on Kaishu Shito Blog</title>
+    <link>http://localhost:1313/tags/20s/</link>
+    <description>Recent content in 20s on Kaishu Shito Blog</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2024, Kaishu Shito.</copyright>
+    <lastBuildDate>Fri, 30 Aug 2024 16:57:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/20s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20代の指針</title>
+      <link>http://localhost:1313/blog/0830/</link>
+      <pubDate>Fri, 30 Aug 2024 16:57:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/0830/</guid>
+      <description>&lt;p&gt;This is a page about »0830«.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
