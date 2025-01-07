@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/0830/</loc>
-    <lastmod>2025-01-05T21:29:41+09:00</lastmod>
+    <loc>https://blogkai.org/tags/ai/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-01-05T21:29:41+09:00</lastmod>
+    <loc>https://blogkai.org/blog/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-05T21:29:41+09:00</lastmod>
+    <loc>https://blogkai.org/tags/future/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-post/</loc>
+    <loc>https://blogkai.org/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
+  </url><url>
+    <loc>https://blogkai.org/tags/poetry/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
+  </url><url>
+    <loc>https://blogkai.org/blog/2025-01-07-ai-poetry/</loc>
+    <lastmod>2025-01-07T20:09:25+09:00</lastmod>
+  </url><url>
+    <loc>https://blogkai.org/blog/first-post/</loc>
     <lastmod>2025-01-05T16:45:11+09:00</lastmod>
+  </url><url>
+    <loc>https://blogkai.org/blog/0830/</loc>
+    <lastmod>2024-08-30T16:57:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blogkai.org/blog/20%E4%BB%A3%E3%81%AE%E6%8C%87%E9%87%9D/</loc>
+    <lastmod>2024-08-30T16:57:00+09:00</lastmod>
   </url>
 </urlset>
