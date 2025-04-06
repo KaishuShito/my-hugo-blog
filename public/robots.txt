@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://blogkai.org/sitemap.xml

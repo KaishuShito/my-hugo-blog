@@ -1,0 +1,8 @@
+# ...existing code...
+
+baseURL = "http://localhost:1313/"
+title = "Kaishu Shito Blog"
+theme = "PaperMod"
+
+# Remove language settings
+# ...existing code...
